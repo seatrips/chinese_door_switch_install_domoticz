@@ -1,0 +1,2 @@
+# chinese_door_switch_install_domoticz
+chinese doorswitch
